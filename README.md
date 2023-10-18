@@ -5,10 +5,8 @@ Binary Visualization based on Christopher Domas talk: https://www.youtube.com/wa
 ## x86_64 ELF executables
 
 ![xkbprint](./demos/xkbprint.binviz.png)
-<!-- ![xmlpatternsvalidator](./demos/xmlpatternsvalidator.binviz.png)-->
 ![xournal](./demos/xournal.binviz.png)
 ![x-terminal-emulator](./demos/x-terminal-emulator.binviz.png)
-<!-- ![x-window-manager](./demos/x-window-manager.binviz.png)-->
 
 ## Quick Start
 
