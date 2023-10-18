@@ -2,6 +2,14 @@
 
 Binary Visualization based on Christopher Domas talk: https://www.youtube.com/watch?v=4bM3Gut1hIk
 
+## Main Idea
+
+- Scan the pairs of bytes of a file with a sliding window. (`AA BB CC DD ...` -> `(AA, BB) (BB, CC) (CC, DD) ...`);
+- Interpret the pairs of bytes as coordinates on a 256x256 2D plain;
+- Place a dot for each pair on the plain;
+- The more frequent the dot, the more brighter it is;
+- Different patterns emerge depending on the type of the data of the file.
+
 ## Demo
 
 ### x86_64 ELF executables
