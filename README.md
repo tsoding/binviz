@@ -6,6 +6,6 @@ Binary Visualization based on Christopher Domas talk: https://www.youtube.com/wa
 
 ```console
 $ cc -o nob nob.c
-$ ./nob binviz ./main.c
-$ feh ./main.c.binviz.png
+$ ./nob binviz ./nob.c
+$ feh ./nob.c.binviz.png
 ```
