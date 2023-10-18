@@ -10,9 +10,9 @@ Binary Visualization based on Christopher Domas talk: https://www.youtube.com/wa
 
 ## RGBA32 Raw Images
 
-![forsen1](forsen1.png.raw.binviz.png)
-![jebaited](jebaited.png.raw.binviz.png)
-![kkoooooona](kkoooooona.png.raw.binviz.png)
+![forsen1](./demos/imgs/forsen1.png.raw.binviz.png)
+![jebaited](./demos/imgs/jebaited.png.raw.binviz.png)
+![kkoooooona](./demos/imgs/kkoooooona.png.raw.binviz.png)
 
 ## Quick Start
 
