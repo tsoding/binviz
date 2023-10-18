@@ -4,9 +4,15 @@ Binary Visualization based on Christopher Domas talk: https://www.youtube.com/wa
 
 ## x86_64 ELF executables
 
-![xkbprint](./demos/xkbprint.binviz.png)
-![xournal](./demos/xournal.binviz.png)
-![x-terminal-emulator](./demos/x-terminal-emulator.binviz.png)
+![xkbprint](./demos/exec/xkbprint.binviz.png)
+![xournal](./demos/exec/xournal.binviz.png)
+![x-terminal-emulator](./demos/exec/x-terminal-emulator.binviz.png)
+
+## RGBA32 Raw Images
+
+![forsen1](forsen1.png.raw.binviz.png)
+![jebaited](jebaited.png.raw.binviz.png)
+![kkoooooona](kkoooooona.png.raw.binviz.png)
 
 ## Quick Start
 
