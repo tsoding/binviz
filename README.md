@@ -14,6 +14,12 @@ Binary Visualization based on Christopher Domas talk: https://www.youtube.com/wa
 ![jebaited](./demos/imgs/jebaited.png.raw.binviz.png)
 ![kkoooooona](./demos/imgs/kkoooooona.png.raw.binviz.png)
 
+## Ogg Files with Chiptune
+
+![1.ogg](./demos/oggs/1.ogg.binviz.png)
+![2.ogg](./demos/oggs/2.ogg.binviz.png)
+![3.ogg](./demos/oggs/3.ogg.binviz.png)
+
 ## Quick Start
 
 ```console
