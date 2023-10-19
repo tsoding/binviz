@@ -31,14 +31,16 @@ int main(int argc, char **argv)
         if (!nob_read_entire_file(input_file_path, &content)) return 1;
 
         memset(map, 0, sizeof(map));
-        if (content.count > 0) {
+        if (content.count > 1) {
             for (size_t i = 0; i < content.count - 1; ++i) {
                 uint8_t x = content.items[i];
                 uint8_t y = content.items[i+1];
                 map[y][x] += 1;
             }
+        } else if (content.count > 0) {
+            uint8_t x = content.items[0];
+            map[0][x] += 1;
         }
-
         float max = 0;
 
         for (size_t y = 0; y < MAP_SIZE; ++y) {
